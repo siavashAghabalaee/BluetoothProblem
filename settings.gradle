@@ -1,0 +1,3 @@
+rootProject.name='P2P-Lib'
+include ':app'
+include ':p2p'
